@@ -15,4 +15,5 @@ def contact_view(request):
 
     return render(request, "form_app/contact.html", {"form": form, "success": success})
 
+    
     # Create your views here.

@@ -13,4 +13,5 @@ def recent_django_articles(request):
     return HttpResponse(article, content_type="text/plain")
 
 
+
 # Create your views here.

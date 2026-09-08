@@ -16,4 +16,5 @@ class Product(models.Model):
         return f'{self.name} - {self.price}'
 
 
+
 # Create your models here.

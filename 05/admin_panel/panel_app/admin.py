@@ -20,4 +20,5 @@ class ProductAdmin(admin.ModelAdmin):
 
     actions = ['discount_10_percent']
 
+
 # Register your models here.

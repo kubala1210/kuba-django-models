@@ -8,4 +8,5 @@ class ProductAdmin(admin.ModelAdmin):
     list_filter = ("in_stock",)
     search_fields = ("name",)
 
+
 # Register your models here.
